@@ -1,0 +1,170 @@
+[
+	{
+		"label": "AIG",
+		"value": "area_aig"
+	},
+	{
+		"label": "Ambiente RPA",
+		"value": "area_ambiente_rpa"
+	},
+	{
+		"label": "CAD",
+		"value": "area_cad"
+	},
+	{
+		"label": "CodificaÃ§Ã£o",
+		"value": "area_codificacao"
+	},
+	{
+		"label": "Contas a Receber",
+		"value": "area_contas_a_receber"
+	},
+	{
+		"label": "CS::AR",
+		"value": "area_cs_ar"
+	},
+	{
+		"label": "CS::BR",
+		"value": "area_cs_br"
+	},
+	{
+		"label": "CS::CL",
+		"value": "area_cs_cl"
+	},
+	{
+		"label": "CS::CO",
+		"value": "area_cs_co"
+	},
+	{
+		"label": "CS::Gerente de Projetos",
+		"value": "area_cs_gerente_de_projetos"
+	},
+	{
+		"label": "CS::Latam",
+		"value": "area_cs_latam"
+	},
+	{
+		"label": "CS::MX",
+		"value": "area_cs_mx"
+	},
+	{
+		"label": "CS::SDG",
+		"value": "area_cs_sdg"
+	},
+	{
+		"label": "E-commerce::BR",
+		"value": "area_e-commerce_br"
+	},
+	{
+		"label": "E-commerce::MX",
+		"value": "area_e-commerce_mx"
+	},
+	{
+		"label": "Financeiro",
+		"value": "area_financeiro"
+	},
+	{
+		"label": "Fiscal",
+		"value": "area_fiscal"
+	},
+	{
+		"label": "Gerencia MÃ©tricas",
+		"value": "area_gerencia_metricas"
+	},
+	{
+		"label": "ImportaÃ§Ã£o::Geral",
+		"value": "area_importacao_geral"
+	},
+	{
+		"label": "ImportaÃ§Ã£o::BR",
+		"value": "area_importacao_br"
+	},
+	{
+		"label": "ImportaÃ§Ã£o::MX",
+		"value": "area_importacao_mx"
+	},
+	{
+		"label": "Lead Sharing - BR",
+		"value": "area_lead_sharing_br"
+	},
+	{
+		"label": "LOG LiberaÃ§Ã£o de pedidos",
+		"value": "area_log_liberacao_de_pedidos"
+	},
+	{
+		"label": "MRP",
+		"value": "area_mrp"
+	},
+	{
+		"label": "Nenhum Valor",
+		"value": "area_nenhum_valor"
+	},
+	{
+		"label": "NGS",
+		"value": "area_ngs"
+	},
+	{
+		"label": "Services::AR",
+		"value": "area_services_ar"
+	},
+	{
+		"label": "Services::BR",
+		"value": "area_services_br"
+	},
+	{
+		"label": "Services::ColÃ´mbia",
+		"value": "area_services_colombia"
+	},
+	{
+		"label": "Services::Latam",
+		"value": "area_services_latam"
+	},
+	{
+		"label": "Services::MX",
+		"value": "area_services_mx"
+	},
+	{
+		"label": "TAC",
+		"value": "area_tac"
+	},
+	{
+		"label": "Tech Suporte::BR",
+		"value": "area_tech_suporte_br"
+	},
+	{
+		"label": "Tech Suporte::MX",
+		"value": "area_tech_suporte_mx"
+	},
+	{
+		"label": "Tesouraria",
+		"value": "area_tesouraria"
+	},
+	{
+		"label": "TI",
+		"value": "area_ti"
+	},
+	{
+		"label": "Todas",
+		"value": "area_todas"
+	},
+	{
+		"label": "VM",
+		"value": "area_vm"
+	},
+	{
+		"label": "E-commerce::CL",
+		"value": "area_e-commerce__cl"
+	},
+	{
+		"label": "Cash  ",
+		"value": "area_cash"
+	},
+	{
+		"label": "Carpetas",
+		"value": "area_carpetas"
+	},
+	{
+		"label": "Intercompany",
+		"value": "area_intercompany"
+	}
+]
