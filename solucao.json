@@ -1,0 +1,330 @@
+[
+	{
+		"label": "RPA::Ajuste em arq de parametro",
+		"value": "solucao_rpa_ajuste_em_arq_de_parametro"
+	},
+	{
+		"label": "RPA::ConfiguraÃ§Ã£o da mÃ¡quina",
+		"value": "solucao_rpa_configuracao_da_maquina"
+	},
+	{
+		"label": "RPA::ConfiguraÃ§Ã£o de Ambiente",
+		"value": "solucao_rpa_configuracao_de_ambiente"
+	},
+	{
+		"label": "RPA::CorreÃ§Ã£o do fluxo",
+		"value": "solucao_rpa_correcao_do_fluxo"
+	},
+	{
+		"label": "RPA::CriaÃ§Ã£o de mensagem",
+		"value": "solucao_rpa_criacao_de_mensagem"
+	},
+	{
+		"label": "RPA::CriaÃ§Ã£o de novo perfil",
+		"value": "solucao_rpa_criacao_de_novo_perfil"
+	},
+	{
+		"label": "RPA::CriaÃ§Ã£o de relatÃ³rio",
+		"value": "solucao_rpa_criacao_de_relatorio"
+	},
+	{
+		"label": "RPA::Duplicidade",
+		"value": "solucao_rpa_duplicidade"
+	},
+	{
+		"label": "RPA::Esclarecimento de dÃºvida",
+		"value": "solucao_rpa_esclarecimento_de_duvida"
+	},
+	{
+		"label": "RPA::KT de processo",
+		"value": "solucao_rpa_kt_de_processo"
+	},
+	{
+		"label": "RPA::Melhoria",
+		"value": "solucao_rpa_melhoria"
+	},
+	{
+		"label": "RPA::NÃ£o apresentou erro",
+		"value": "solucao_rpa_nao_apresentou_erro"
+	},
+	{
+		"label": "RPA::Processamento do Fluxo",
+		"value": "solucao_rpa_processamento_do_fluxo"
+	},
+	{
+		"label": "RPA::ReinicializaÃ§Ã£o da mÃ¡quina",
+		"value": "solucao_rpa_reinicializacao_da_maquina"
+	},
+	{
+		"label": "RPA::Reprocessamento do Fluxo",
+		"value": "solucao_rpa_reprocessamento_do_fluxo"
+	},
+	{
+		"label": "Thermofisher",
+		"value": "solucao_thermofisher"
+	},
+	{
+		"label": "Thermofisher::Acesso a Fila",
+		"value": "solucao_thermofisher_acesso_a_fila"
+	},
+	{
+		"label": "Thermofisher::Acesso versÃ£o console",
+		"value": "solucao_thermofisher_acesso_versao_console"
+	},
+	{
+		"label": "Thermofisher::Acompanhamento",
+		"value": "solucao_thermofisher_acompanhamento"
+	},
+	{
+		"label": "Thermofisher::Ajuste Conjunto de NavegaÃ§Ã£o",
+		"value": "solucao_thermofisher_ajuste_conjunto_de_navegacao"
+	},
+	{
+		"label": "Thermofisher::Ajuste de ConfiguraÃ§Ã£o/Contato",
+		"value": "solucao_thermofisher_ajuste_de_configuracao_contato"
+	},
+	{
+		"label": "Thermofisher::Ajuste de ConfiguraÃ§Ã£o/Incidente",
+		"value": "solucao_thermofisher_ajuste_de_configuracao_incidente"
+	},
+	{
+		"label": "Thermofisher::Ajuste de ConfiguraÃ§Ã£o WS/Regra NegÃ³cio",
+		"value": "solucao_thermofisher_ajuste_de_configuracao_ws_regra_negocio"
+	},
+	{
+		"label": "Thermofisher::Ajuste de idioma",
+		"value": "solucao_thermofisher_ajuste_de_idioma"
+	},
+	{
+		"label": "Thermofisher::Ajuste em Mensagem",
+		"value": "solucao_thermofisher_ajuste_em_mensagem"
+	},
+	{
+		"label": "Thermofisher::Ajuste em RelatÃ³rio",
+		"value": "solucao_thermofisher_ajuste_em_relatorio"
+	},
+	{
+		"label": "Thermofisher::Ajuste externo (Thermofisher)",
+		"value": "solucao_thermofisher_ajuste_externo_thermofisher"
+	},
+	{
+		"label": "Thermofisher::Ajuste/Melhoria na IntegraÃ§Ã£o",
+		"value": "solucao_thermofisher_ajuste_melhoria_na_integracao"
+	},
+	{
+		"label": "Thermofisher::Ajuste/Melhoria Processo Customizado",
+		"value": "solucao_thermofisher_ajuste_melhoria_processo_customizado"
+	},
+	{
+		"label": "Thermofisher::AlteraÃ§Ã£o Perfil",
+		"value": "solucao_thermofisher_alteracao_perfil"
+	},
+	{
+		"label": "Thermofisher::AlteraÃ§Ã£o/CriaÃ§Ã£o de Assinatura",
+		"value": "solucao_thermofisher_alteracao_criacao_de_assinatura"
+	},
+	{
+		"label": "Thermofisher::AlteraÃ§Ã£o/CriaÃ§Ã£o de Campo",
+		"value": "solucao_thermofisher_alteracao_criacao_de_campo"
+	},
+	{
+		"label": "Thermofisher::AlteraÃ§Ã£o/CriaÃ§Ã£o de Categoria",
+		"value": "solucao_thermofisher_alteracao_criacao_de_categoria"
+	},
+	{
+		"label": "Thermofisher::AlteraÃ§Ã£o/CriaÃ§Ã£o de ClassificaÃ§Ã£o",
+		"value": "solucao_thermofisher_alteracao_criacao_de_classificacao"
+	},
+	{
+		"label": "Thermofisher::AlteraÃ§Ã£o/CriaÃ§Ã£o Lista de DistribuiÃ§Ã£o",
+		"value": "solucao_thermofisher_alteracao_criacao_lista_de_distribuicao"
+	},
+	{
+		"label": "Thermofisher::AlteraÃ§Ã£o/HorÃ¡rio de Atendimento",
+		"value": "solucao_thermofisher_alteracao_horario_de_atendimento"
+	},
+	{
+		"label": "Thermofisher::AtualizaÃ§Ã£o do Portal",
+		"value": "solucao_thermofisher_atualizacao_do_portal"
+	},
+	{
+		"label": "Thermofisher::AtualizaÃ§Ã£o/ImportaÃ§Ã£o de contatos",
+		"value": "solucao_thermofisher_atualizacao_importacao_de_contatos"
+	},
+	{
+		"label": "Thermofisher::AutomaÃ§Ã£o de Regras de NegÃ³cio",
+		"value": "solucao_thermofisher_automacao_de_regras_de_negocio"
+	},
+	{
+		"label": "Thermofisher::Bloquear conta de usuÃ¡rio",
+		"value": "solucao_thermofisher_bloquear_conta_de_usuario"
+	},
+	{
+		"label": "Thermofisher::Chamado Oracle",
+		"value": "solucao_thermofisher_chamado_oracle"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de Add in",
+		"value": "solucao_thermofisher_criacao_de_add_in"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de Caixa Postal",
+		"value": "solucao_thermofisher_criacao_de_caixa_postal"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de Feriado",
+		"value": "solucao_thermofisher_criacao_de_feriado"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de Perfil",
+		"value": "solucao_thermofisher_criacao_de_perfil"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de Regra de NegÃ³cio",
+		"value": "solucao_thermofisher_criacao_de_regra_de_negocio"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de Regras de Workspace",
+		"value": "solucao_thermofisher_criacao_de_regras_de_workspace"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de RelatÃ³rio",
+		"value": "solucao_thermofisher_criacao_de_relatorio"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de SLA",
+		"value": "solucao_thermofisher_criacao_de_sla"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de Texto PadrÃ£o",
+		"value": "solucao_thermofisher_criacao_de_texto_padrao"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de UsuÃ¡rio",
+		"value": "solucao_thermofisher_criacao_de_usuario"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o de Workflow",
+		"value": "solucao_thermofisher_criacao_de_workflow"
+	},
+	{
+		"label": "Thermofisher::CriaÃ§Ã£o Novo Engenheiro",
+		"value": "solucao_thermofisher_criacao_novo_engenheiro"
+	},
+	{
+		"label": "Thermofisher::Desbloqueio de Login",
+		"value": "solucao_thermofisher_desbloqueio_de_login"
+	},
+	{
+		"label": "Thermofisher::Duplicidade",
+		"value": "solucao_thermofisher_duplicidade"
+	},
+	{
+		"label": "Thermofisher::Encaminhado JDE",
+		"value": "solucao_thermofisher_encaminhado_jde"
+	},
+	{
+		"label": "Thermofisher::Encerrado a pedido do Cliente",
+		"value": "solucao_thermofisher_encerrado_a_pedido_do_cliente"
+	},
+	{
+		"label": "Thermofisher::Encerramento automÃ¡tico",
+		"value": "solucao_thermofisher_encerramento_automatico"
+	},
+	{
+		"label": "Thermofisher::Entrega Projeto",
+		"value": "solucao_thermofisher_entrega_projeto"
+	},
+	{
+		"label": "Thermofisher::Envio de DocumentaÃ§Ã£o",
+		"value": "solucao_thermofisher_envio_de_documentacao"
+	},
+	{
+		"label": "Thermofisher::Envio de Proposta",
+		"value": "solucao_thermofisher_envio_de_proposta"
+	},
+	{
+		"label": "Thermofisher::Envio XML/IntegraÃ§Ã£o",
+		"value": "solucao_thermofisher_envio_xml_integracao"
+	},
+	{
+		"label": "Thermofisher::Esclarecimento de dÃºvida",
+		"value": "solucao_thermofisher_esclarecimento_de_duvida"
+	},
+	{
+		"label": "Thermofisher::InstalaÃ§Ã£o",
+		"value": "solucao_thermofisher_instalacao"
+	},
+	{
+		"label": "Thermofisher::Levantamento/Pesquisa de informaÃ§Ã£o",
+		"value": "solucao_thermofisher_levantamento_pesquisa_de_informacao"
+	},
+	{
+		"label": "Thermofisher::Limpeza de Cache",
+		"value": "solucao_thermofisher_limpeza_de_cache"
+	},
+	{
+		"label": "Thermofisher::Melhoria implantada",
+		"value": "solucao_thermofisher_melhoria_implantada"
+	},
+	{
+		"label": "Thermofisher::NÃ£o foi possivel replicar",
+		"value": "solucao_thermofisher_nao_foi_possivel_replicar"
+	},
+	{
+		"label": "Thermofisher::OrientaÃ§Ã£o de processo",
+		"value": "solucao_thermofisher_orientacao_de_processo"
+	},
+	{
+		"label": "Thermofisher::PermissÃ£o acesso RelatÃ³rio",
+		"value": "solucao_thermofisher_permissao_acesso_relatorio"
+	},
+	{
+		"label": "Thermofisher::PermissÃ£o Perfil",
+		"value": "solucao_thermofisher_permissao_perfil"
+	},
+	{
+		"label": "Thermofisher::Reset de Senha",
+		"value": "solucao_thermofisher_reset_de_senha"
+	},
+	{
+		"label": "Thermofisher::ResoluÃ§Ã£o de conectividade",
+		"value": "solucao_thermofisher_resolucao_de_conectividade"
+	},
+	{
+		"label": "Thermofisher::ValidaÃ§Ã£o Upgrade",
+		"value": "solucao_thermofisher_validacao_upgrade"
+	},
+	{
+		"label": "RPA::Levantamento de informaÃ§Ã£o",
+		"value": "solucao_rpa_levantamento_de_informaÃ§Ã£o"
+	},
+	{
+		"label": "RPA::ConfiguraÃ§Ã£o de Login",
+		"value": "solucao_rpa__configuraÃ§Ã£o_de_login"
+	},
+	{
+		"label": "Thermofisher::Acesso em outra interface",
+		"value": "solucao_thermofisher__acesso_em_outra_interface"
+	},
+	{
+		"label": "Thermofisher::ExclusÃ£o de Contato",
+		"value": "solucao_thermofisher__exclusÃ£o_de_contato"
+	},
+	{
+		"label": "Thermofisher::Disparo de RelatÃ³rio automÃ¡tico",
+		"value": "solucao_thermofisher__disparo_de_relatÃ³rio_automÃ¡tico"
+	},
+	{
+		"label": "Thermofisher::Sem retorno do usuÃ¡rio ",
+		"value": "solucao_thermofisher__sem_retorno_do_usuÃ¡rio_"
+	},
+	{
+		"label": "Thermofisher::Treinamento realizado",
+		"value": "solucao_thermofisher__treinamento_realizado"
+	},
+	{
+		"label": "Thermofisher::ValidaÃ§ao de Testes",
+		"value": "solucao_thermofisher_validacao_de_testes"
+	}
+]

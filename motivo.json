@@ -1,0 +1,298 @@
+[
+ {
+  "label": "Ajuste Conjunto de NavegaÃ§Ã£o",
+  "value": "motivo_ajuste_conjunto_de_navegacao"
+ },
+ {
+  "label": "Ajuste de ConfiguraÃ§Ã£o\/Contato",
+  "value": "motivo_ajuste_de_configuracao_contato"
+ },
+ {
+  "label": "Ajuste de ConfiguraÃ§Ã£o\/Incidente",
+  "value": "motivo_ajuste_de_configuracao_incidente"
+ },
+ {
+  "label": "Ajuste de idioma",
+  "value": "motivo_ajuste_de_idioma"
+ },
+ {
+  "label": "Ajuste de Representantes",
+  "value": "motivo_ajuste_de_representantes"
+ },
+ {
+  "label": "Ajuste em RelatÃ³rio",
+  "value": "motivo_ajuste_em_relatorio"
+ },
+ {
+  "label": "Ajuste Layout Web",
+  "value": "motivo_ajuste_layout_web"
+ },
+ {
+  "label": "Ajuste na Assinatura",
+  "value": "motivo_ajuste_na_assinatura"
+ },
+ {
+  "label": "Ajuste WS\/Regras de negÃ³cio",
+  "value": "motivo_ajuste_ws_regras_de_negocio"
+ },
+ {
+  "label": "Ajuste\/Melhoria na IntegraÃ§Ã£o",
+  "value": "motivo_ajuste_melhoria_na_integracao"
+ },
+ {
+  "label": "AlteraÃ§Ã£o da Nomenclatura do Follow",
+  "value": "motivo_alteracao_da_nomenclatura_do_follow"
+ },
+ {
+  "label": "AlteraÃ§Ã£o de Categorias",
+  "value": "motivo_alteracao_de_categorias"
+ },
+ {
+  "label": "AlteraÃ§Ã£o de HorÃ¡rio de Atendimento",
+  "value": "motivo_alteracao_de_horario_de_atendimento"
+ },
+ {
+  "label": "AlteraÃ§Ã£o de Mensagem automÃ¡tica",
+  "value": "motivo_alteracao_de_mensagem_automatica"
+ },
+ {
+  "label": "AlteraÃ§Ã£o de Perfil",
+  "value": "motivo_alteracao_de_perfil"
+ },
+ {
+  "label": "AlteraÃ§Ã£o de Texto PadrÃ£o",
+  "value": "motivo_alteracao_de_texto_padrao"
+ },
+ {
+  "label": "AtualizaÃ§Ã£o\/ImportaÃ§Ã£o de contatos",
+  "value": "motivo_atualizacao_importacao_de_contatos"
+ },
+ {
+  "label": "AutomaÃ§Ã£o de Regras de NegÃ³cio",
+  "value": "motivo_automacao_de_regras_de_negocio"
+ },
+ {
+  "label": "Bloquear conta de usuÃ¡rio",
+  "value": "motivo_bloquear_conta_de_usuario"
+ },
+ {
+  "label": "Bloqueio versÃ£o console",
+  "value": "motivo_bloqueio_versao_console"
+ },
+ {
+  "label": "Conceder Visibilidade",
+  "value": "motivo_conceder_visibilidade"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Assinatura",
+  "value": "motivo_criacao_de_assinatura"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Caixa Postal",
+  "value": "motivo_criacao_de_caixa_postal"
+ },
+ {
+  "label": "CriaÃ§Ã£o de campo no Workspace",
+  "value": "motivo_criacao_de_campo_no_workspace"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Categoria",
+  "value": "motivo_criacao_de_categoria"
+ },
+ {
+  "label": "CriaÃ§Ã£o de ClassificaÃ§Ã£o",
+  "value": "motivo_criacao_de_classificacao"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Conta de usuÃ¡rio",
+  "value": "motivo_criacao_de_conta_de_usuario"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Feriado",
+  "value": "motivo_criacao_de_feriado"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Follow up",
+  "value": "motivo_criacao_de_follow_up"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Perfil",
+  "value": "motivo_criacao_de_perfil"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Regras de Workspace",
+  "value": "motivo_criacao_de_regras_de_workspace"
+ },
+ {
+  "label": "CriaÃ§Ã£o de RelatÃ³rio",
+  "value": "motivo_criacao_de_relatorio"
+ },
+ {
+  "label": "CriaÃ§Ã£o de SLA",
+  "value": "motivo_criacao_de_sla"
+ },
+ {
+  "label": "CriaÃ§Ã£o de Texto PadrÃ£o",
+  "value": "motivo_criacao_de_texto_padrao"
+ },
+ {
+  "label": "CriaÃ§Ã£o Novo Engenheiro",
+  "value": "motivo_criacao_novo_engenheiro"
+ },
+ {
+  "label": "Duplicidade",
+  "value": "motivo_duplicidade"
+ },
+ {
+  "label": "DÃºvida",
+  "value": "motivo_duvida"
+ },
+ {
+  "label": "DÃºvida IntegraÃ§Ã£o",
+  "value": "motivo_duvida_integracao"
+ },
+ {
+  "label": "DÃºvida RelatÃ³rio",
+  "value": "motivo_duvida_relatorio"
+ },
+ {
+  "label": "E-mail em looping",
+  "value": "motivo_e-mail_em_looping"
+ },
+ {
+  "label": "E-mail nÃ£o entrou no RightNow",
+  "value": "motivo_e-mail_nao_entrou_no_rightnow"
+ },
+ {
+  "label": "E-mails SPAM",
+  "value": "motivo_e-mails_spam"
+ },
+ {
+  "label": "Entendimento de Processo",
+  "value": "motivo_entendimento_de_processo"
+ },
+ {
+  "label": "Envio de DocumentaÃ§Ã£o",
+  "value": "motivo_envio_de_documentacao"
+ },
+ {
+  "label": "Extrair XML\/IntegraÃ§Ã£o",
+  "value": "motivo_extrair_xml_integracao"
+ },
+ {
+  "label": "InformaÃ§Ã£o",
+  "value": "motivo_informacao"
+ },
+ {
+  "label": "InstalaÃ§Ã£o",
+  "value": "motivo_instalacao"
+ },
+ {
+  "label": "Lista de DistribuiÃ§Ã£o",
+  "value": "motivo_lista_de_distribuicao"
+ },
+ {
+  "label": "Login bloqueado",
+  "value": "motivo_login_bloqueado"
+ },
+ {
+  "label": "Melhoria no Processo",
+  "value": "motivo_melhoria_no_processo"
+ },
+ {
+  "label": "Mensagem de Feriado",
+  "value": "motivo_mensagem_de_feriado"
+ },
+ {
+  "label": "PermissÃ£o acesso RelatÃ³rio",
+  "value": "motivo_permissao_acesso_relatorio"
+ },
+ {
+  "label": "Problema com a IntegraÃ§Ã£o",
+  "value": "motivo_problema_com_a_integracao"
+ },
+ {
+  "label": "Problema externos",
+  "value": "motivo_problema_externos"
+ },
+ {
+  "label": "Problemas com Processo Customizado",
+  "value": "motivo_problemas_com_processo_customizado"
+ },
+ {
+  "label": "Problemas Identificados no Sistema",
+  "value": "motivo_problemas_identificados_no_sistema"
+ },
+ {
+  "label": "Projeto\/Hypercare",
+  "value": "motivo_projeto_hypercare"
+ },
+ {
+  "label": "Reset de Senha",
+  "value": "motivo_reset_de_senha"
+ },
+ {
+  "label": "RPA::Acompanhamento",
+  "value": "motivo_rpa_acompanhamento"
+ },
+ {
+  "label": "RPA::Ajuste\/AlteraÃ§Ã£o Equipamento",
+  "value": "motivo_rpa_ajuste_alteracao_equipamento"
+ },
+ {
+  "label": "RPA::AlteraÃ§Ã£o em arquivo de parÃ¢metros",
+  "value": "motivo_rpa_alteracao_em_arquivo_de_parametros"
+ },
+ {
+  "label": "RPA::Call de alinhamento",
+  "value": "motivo_rpa_call_de_alinhamento"
+ },
+ {
+  "label": "RPA::Falha de execuÃ§Ã£o",
+  "value": "motivo_rpa_falha_de_execucao"
+ },
+ {
+  "label": "RPA::Hypercare",
+  "value": "motivo_rpa_hypercare"
+ },
+ {
+  "label": "RPA::Melhoria no processo",
+  "value": "motivo_rpa_melhoria_no_processo"
+ },
+ {
+  "label": "RPA::SolicitaÃ§Ã£o de execuÃ§Ã£o",
+  "value": "motivo_rpa_solicitacao_de_execucao"
+ },
+ {
+  "label": "UpGrade",
+  "value": "motivo_upgrade"
+ },
+ {
+  "label": "Oracle",
+  "value": "motivo_oracle"
+ },
+ {
+  "label": "RPA::Levantamento de informaÃ§Ã£o",
+  "value": "motivo_rpa__levantamento_de_informaÃ§Ã£o"
+ },
+ {
+  "label": "RPA::Falha de conexÃ£o",
+  "value": "motivo_rpa__falha_de_conexÃ£o"
+ },
+ {
+  "label": "ExclusÃ£o de Contato",
+  "value": "motivo_exclusÃ£o_de_contato"
+ },
+ {
+  "label": "Disparo de RelatÃ³rio automÃ¡tico",
+  "value": "motivo_disparo_de_relatÃ³rio_automÃ¡tico"
+ },
+ {
+  "label": "Treinamento",
+  "value": "motivo_treinamento"
+ },
+ {
+  "label": "ValidaÃ§ao deTestes",
+  "value": "motivo_validaÃ§ao_de_testes"
+ }
+]

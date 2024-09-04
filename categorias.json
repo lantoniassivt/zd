@@ -1,0 +1,586 @@
+[
+	{
+		"label": "RPA",
+		"value": "categ_rpa"
+	},
+	{
+		"label": "RPA::Ajuste arq. de parametros",
+		"value": "categ_rpa_ajuste_arq._de_parametros"
+	},
+	{
+		"label": "RPA::Ajuste de PermissÃ£o",
+		"value": "categ_rpa_ajuste_de_permissao"
+	},
+	{
+		"label": "RPA::Ajuste/AtualizaÃ§Ã£o Equipamento",
+		"value": "categ_rpa_ajuste_atualizacao_equipamento"
+	},
+	{
+		"label": "RPA::Alerta de erro no Orchestrator",
+		"value": "categ_rpa_alerta_de_erro_no_orchestrator"
+	},
+	{
+		"label": "RPA::AlteraÃ§Ã£o no IU do processo",
+		"value": "categ_rpa_alteracao_no_iu_do_processo"
+	},
+	{
+		"label": "RPA::Arquivo corrompido",
+		"value": "categ_rpa_arquivo_corrompido"
+	},
+	{
+		"label": "RPA::Arquivo nÃ£o localizado",
+		"value": "categ_rpa_arquivo_nao_localizado"
+	},
+	{
+		"label": "RPA::ConfiguraÃ§Ã£o de Ambiente",
+		"value": "categ_rpa_configuracao_de_ambiente"
+	},
+	{
+		"label": "RPA::Consultoria",
+		"value": "categ_rpa_consultoria"
+	},
+	{
+		"label": "RPA::CriaÃ§Ã£o de RelatÃ³rio",
+		"value": "categ_rpa_criacao_de_relatorio"
+	},
+	{
+		"label": "RPA::Duplicidade",
+		"value": "categ_rpa_duplicidade"
+	},
+	{
+		"label": "RPA::DÃºvida",
+		"value": "categ_rpa_duvida"
+	},
+	{
+		"label": "RPA::Erro no processo",
+		"value": "categ_rpa_erro_no_processo"
+	},
+	{
+		"label": "RPA::Falha com Equipamenrto",
+		"value": "categ_rpa_falha_com_equipamenrto"
+	},
+	{
+		"label": "RPA::Falha na execuÃ§Ã£o",
+		"value": "categ_rpa_falha_na_execucao"
+	},
+	{
+		"label": "RPA::Hypercare",
+		"value": "categ_rpa_hypercare"
+	},
+	{
+		"label": "RPA::Licenciamento",
+		"value": "categ_rpa_licenciamento"
+	},
+	{
+		"label": "RPA::Melhoria no processo",
+		"value": "categ_rpa_melhoria_no_processo"
+	},
+	{
+		"label": "RPA::Problema com AplicaÃ§Ã£o legada",
+		"value": "categ_rpa_problema_com_aplicacao_legada"
+	},
+	{
+		"label": "RPA::Problema com site externo",
+		"value": "categ_rpa_problema_com_site_externo"
+	},
+	{
+		"label": "RPA::SolicitaÃ§Ã£o de execuÃ§Ã£o de Fluxo",
+		"value": "categ_rpa_solicitacao_de_execucao_de_fluxo"
+	},
+	{
+		"label": "Suporte",
+		"value": "categ_suporte"
+	},
+	{
+		"label": "Suporte::Ajuste workspaces",
+		"value": "categ_suporte_ajuste_workspaces"
+	},
+	{
+		"label": "Suporte::Ajuste Categorias",
+		"value": "categ_suporte_ajuste_categorias"
+	},
+	{
+		"label": "Suporte::Ajuste console",
+		"value": "categ_suporte_ajuste_console"
+	},
+	{
+		"label": "Suporte::Ajuste HorÃ¡rio Chat",
+		"value": "categ_suporte_ajuste_horario_chat"
+	},
+	{
+		"label": "Suporte::Ajuste na IntegraÃ§Ã£o",
+		"value": "categ_suporte_ajuste_na_integracao"
+	},
+	{
+		"label": "Suporte::Ajuste na Pesquisa",
+		"value": "categ_suporte_ajuste_na_pesquisa"
+	},
+	{
+		"label": "Suporte::Ajuste no perfil",
+		"value": "categ_suporte_ajuste_no_perfil"
+	},
+	{
+		"label": "Suporte::Ajuste Portal",
+		"value": "categ_suporte_ajuste_portal"
+	},
+	{
+		"label": "Suporte::AlteraÃ§Ã£o de Senha",
+		"value": "categ_suporte_alteracao_de_senha"
+	},
+	{
+		"label": "Suporte::AlteraÃ§Ã£o no fluxo",
+		"value": "categ_suporte_alteracao_no_fluxo"
+	},
+	{
+		"label": "Suporte::Assinatura",
+		"value": "categ_suporte_assinatura"
+	},
+	{
+		"label": "Suporte::Atendimento TÃ©cnico",
+		"value": "categ_suporte_atendimento_tecnico"
+	},
+	{
+		"label": "Suporte::Atendimento TÃ©cnico::Hardware",
+		"value": "categ_suporte_atendimento_tecnico_hardware"
+	},
+	{
+		"label": "Suporte::Atendimento TÃ©cnico::Network",
+		"value": "categ_suporte_atendimento_tecnico_network"
+	},
+	{
+		"label": "Suporte::Atendimento TÃ©cnico::Software",
+		"value": "categ_suporte_atendimento_tecnico_software"
+	},
+	{
+		"label": "Suporte::Atendimento TÃ©cnico::SoluÃ§Ãµes SIBRA",
+		"value": "categ_suporte_atendimento_tecnico_solucoes_sibra"
+	},
+	{
+		"label": "Suporte::AtualizaÃ§Ã£o da base/ImportaÃ§Ã£o de dados",
+		"value": "categ_suporte_atualizacao_da_base_importacao_de_dados"
+	},
+	{
+		"label": "Suporte::Bloqueio de e-mail",
+		"value": "categ_suporte_bloqueio_de_email"
+	},
+	{
+		"label": "Suporte::Cadastro de Transportadora",
+		"value": "categ_suporte_cadastro_de_transportadora"
+	},
+	{
+		"label": "Suporte::Chamado Oracle",
+		"value": "categ_suporte_chamado_oracle"
+	},
+	{
+		"label": "Suporte::Chat",
+		"value": "categ_suporte_chat"
+	},
+	{
+		"label": "Suporte::CriaÃ§Ã£o de Campos",
+		"value": "categ_suporte_criacao_de_campos"
+	},
+	{
+		"label": "Suporte::CriaÃ§Ã£o de Filas",
+		"value": "categ_suporte_criacao_de_filas"
+	},
+	{
+		"label": "Suporte::DocumentaÃ§Ã£o/Manuais",
+		"value": "categ_suporte_documentacao_manuais"
+	},
+	{
+		"label": "Suporte::Duplicidade",
+		"value": "categ_suporte_duplicidade"
+	},
+	{
+		"label": "Suporte::DÃºvidas",
+		"value": "categ_suporte_duvidas"
+	},
+	{
+		"label": "Suporte::Erro",
+		"value": "categ_suporte_erro"
+	},
+	{
+		"label": "Suporte::Incidente",
+		"value": "categ_suporte_incidente"
+	},
+	{
+		"label": "Suporte::Incidente::ConfiguraÃ§Ã£o do sistema",
+		"value": "categ_suporte_incidente_configuracao_do_sistema"
+	},
+	{
+		"label": "Suporte::Incidente::Delay",
+		"value": "categ_suporte_incidente_delay"
+	},
+	{
+		"label": "Suporte::Incidente::E-mail em looping",
+		"value": "categ_suporte_incidente_email_em_looping"
+	},
+	{
+		"label": "Suporte::Incidente::E-mails SPAM",
+		"value": "categ_suporte_incidente_emails_spam"
+	},
+	{
+		"label": "Suporte::Incidente::Entendimento do Processo",
+		"value": "categ_suporte_incidente_entendimento_do_processo"
+	},
+	{
+		"label": "Suporte::Incidente::Erro de processo do sistema",
+		"value": "categ_suporte_incidente_erro_de_processo_do_sistema"
+	},
+	{
+		"label": "Suporte::Incidente::Erro de processo interno",
+		"value": "categ_suporte_incidente_erro_de_processo_interno"
+	},
+	{
+		"label": "Suporte::Incidente::Falha sistema",
+		"value": "categ_suporte_incidente_falha_sistema"
+	},
+	{
+		"label": "Suporte::Incidente::Problemas com E-mail",
+		"value": "categ_suporte_incidente_problemas_com_email"
+	},
+	{
+		"label": "Suporte::Incidente::Problemas com IntegraÃ§Ã£o",
+		"value": "categ_suporte_incidente_problemas_com_integracao"
+	},
+	{
+		"label": "Suporte::Incidente::Problemas com Processo Customizado",
+		"value": "categ_suporte_incidente_problemas_com_processo_customizado"
+	},
+	{
+		"label": "Suporte::Incidente::Problemas com RelatÃ³rio",
+		"value": "categ_suporte_incidente_problemas_com_relatorio"
+	},
+	{
+		"label": "Suporte::Incidente::Problemas de Acesso",
+		"value": "categ_suporte_incidente_problemas_de_acesso"
+	},
+	{
+		"label": "Suporte::Incidente::Problemas Externos",
+		"value": "categ_suporte_incidente_problemas_externos"
+	},
+	{
+		"label": "Suporte::Incidente::Problemas Identificados no Sistema",
+		"value": "categ_suporte_incidente_problemas_identificados_no_sistema"
+	},
+	{
+		"label": "Suporte::Incidente::Senha",
+		"value": "categ_suporte_incidente_senha"
+	},
+	{
+		"label": "Suporte::InstalaÃ§Ã£o",
+		"value": "categ_suporte_instalacao"
+	},
+	{
+		"label": "Suporte::IntegraÃ§Ã£o - Novos campos",
+		"value": "categ_suporte_integracao_novos_campos"
+	},
+	{
+		"label": "Suporte::Levantamento de InformaÃ§Ã£o",
+		"value": "categ_suporte_levantamento_de_informacao"
+	},
+	{
+		"label": "Suporte::Mensagem automÃ¡tica",
+		"value": "categ_suporte_mensagem_automatica"
+	},
+	{
+		"label": "Suporte::Portal",
+		"value": "categ_suporte_portal"
+	},
+	{
+		"label": "Suporte::Problemas com login",
+		"value": "categ_suporte_problemas_com_login"
+	},
+	{
+		"label": "Suporte::Problemas IntegraÃ§Ã£o",
+		"value": "categ_suporte_problemas_integracao"
+	},
+	{
+		"label": "Suporte::Projeto",
+		"value": "categ_suporte_projeto"
+	},
+	{
+		"label": "Suporte::Projetos",
+		"value": "categ_suporte_projetos"
+	},
+	{
+		"label": "Suporte::RelatÃ³rios",
+		"value": "categ_suporte_relatorios"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o",
+		"value": "categ_suporte_requisicao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Ajuste idioma",
+		"value": "categ_suporte_requisicao_ajuste_idioma"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o",
+		"value": "categ_suporte_requisicao_alteracao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Acesso versÃ£o console",
+		"value": "categ_suporte_requisicao_alteracao_acesso_versao_console"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Ajuste em RelatÃ³rio",
+		"value": "categ_suporte_requisicao_alteracao_ajuste_em_relatorio"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Ajuste Layout Web",
+		"value": "categ_suporte_requisicao_alteracao_ajuste_layout_web"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Assinatura de e-mail",
+		"value": "categ_suporte_requisicao_alteracao_assinatura_de_email"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Bloquear conta de usuÃ¡rio",
+		"value": "categ_suporte_requisicao_alteracao_bloquear_conta_de_usuario"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Categoria",
+		"value": "categ_suporte_requisicao_alteracao_categoria"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::ConfiguraÃ§Ã£o",
+		"value": "categ_suporte_requisicao_alteracao_configuracao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Conjunto de NavegaÃ§Ã£o",
+		"value": "categ_suporte_requisicao_alteracao_conjunto_de_navegacao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::HorÃ¡rio de Atendimento",
+		"value": "categ_suporte_requisicao_alteracao_horario_de_atendimento"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::IntegraÃ§Ã£o",
+		"value": "categ_suporte_requisicao_alteracao_integracao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Mensagem automÃ¡tica",
+		"value": "categ_suporte_requisicao_alteracao_mensagem_automatica"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Perfil",
+		"value": "categ_suporte_requisicao_alteracao_perfil"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::PermissÃ£o",
+		"value": "categ_suporte_requisicao_alteracao_permissao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Regra de NegÃ³cio",
+		"value": "categ_suporte_requisicao_alteracao_regra_de_negocio"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Senha",
+		"value": "categ_suporte_requisicao_alteracao_senha"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Texto PadrÃ£o",
+		"value": "categ_suporte_requisicao_alteracao_texto_padrao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::AlteraÃ§Ã£o::Workspaces",
+		"value": "categ_suporte_requisicao_alteracao_workspaces"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o",
+		"value": "categ_suporte_requisicao_criacao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Ajuste no perfil",
+		"value": "categ_suporte_requisicao_criacao_ajuste_no_perfil"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Assinatura",
+		"value": "categ_suporte_requisicao_criacao_assinatura"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::AutomaÃ§Ã£o de WS/Regras NegÃ³cio",
+		"value": "categ_suporte_requisicao_criacao_automacao_de_ws_regras_negocio"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Caixa Postal",
+		"value": "categ_suporte_requisicao_criacao_caixa_postal"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Campo no Workspace",
+		"value": "categ_suporte_requisicao_criacao_campo_no_workspace"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Categorias",
+		"value": "categ_suporte_requisicao_criacao_categorias"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::ClassificaÃ§Ã£o",
+		"value": "categ_suporte_requisicao_criacao_classificacao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Conjunto de NavegaÃ§Ã£o",
+		"value": "categ_suporte_requisicao_criacao_conjunto_de_navegacao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Conta de usuÃ¡rio",
+		"value": "categ_suporte_requisicao_criacao_conta_de_usuario"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Extrair XML/IntegraÃ§Ã£o",
+		"value": "categ_suporte_requisicao_criacao_extrair_xml_integracao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Feriados",
+		"value": "categ_suporte_requisicao_criacao_feriados"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Filas",
+		"value": "categ_suporte_requisicao_criacao_filas"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::ImportaÃ§Ã£o de Dados",
+		"value": "categ_suporte_requisicao_criacao_importacao_de_dados"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Lista de DistribuiÃ§Ã£o",
+		"value": "categ_suporte_requisicao_criacao_lista_de_distribuicao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Manuais",
+		"value": "categ_suporte_requisicao_criacao_manuais"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Mensagens Automaticas",
+		"value": "categ_suporte_requisicao_criacao_mensagens_automaticas"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Novo Engenheiro",
+		"value": "categ_suporte_requisicao_criacao_novo_engenheiro"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Perfil",
+		"value": "categ_suporte_requisicao_criacao_perfil"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Regras de NegÃ³cio",
+		"value": "categ_suporte_requisicao_criacao_regras_de_negocio"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Regras de Workspace",
+		"value": "categ_suporte_requisicao_criacao_regras_de_workspace"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::RelatÃ³rios",
+		"value": "categ_suporte_requisicao_criacao_relatorios"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::SLA",
+		"value": "categ_suporte_requisicao_criacao_sla"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Texto PadrÃ£o",
+		"value": "categ_suporte_requisicao_criacao_texto_padrao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::DocumentaÃ§Ã£o",
+		"value": "categ_suporte_requisicao_documentacao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo",
+		"value": "categ_suporte_requisicao_entendimento_de_processo"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::DÃºvidas",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_duvidas"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::Erros de ConfiguraÃ§Ã£o",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_erros_de_configuracao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::InformaÃ§Ã£o",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_informacao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::InformaÃ§Ã£o::Cadastro de Feriado/SLA",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_informacao_cadastro_de_feriado_sla"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::InformaÃ§Ã£o::Campos Workspace",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_informacao_campos_workspace"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::InformaÃ§Ã£o::ConfiguraÃ§Ã£o",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_informacao_configuracao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::InformaÃ§Ã£o::E-mail Oracle",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_informacao_email_oracle"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::InformaÃ§Ã£o::ExceÃ§Ãµes dos relatÃ³rios de fila",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_informacao_excecoes_dos_relatorios_de_fila"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::InformaÃ§Ã£o::PlantÃ£o Suporte",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_informacao_plantao_suporte"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::InstalaÃ§Ã£o",
+		"value": "categ_suporte_requisicao_instalacao"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Melhoria/Processo",
+		"value": "categ_suporte_requisicao_melhoria_processo"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Problemas com E-mail",
+		"value": "categ_suporte_requisicao_problemas_com_email"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Problemas Externos",
+		"value": "categ_suporte_requisicao_problemas_externos"
+	},
+	{
+		"label": "Suporte::Sistema PadrÃ£o",
+		"value": "categ_suporte_sistema_padrao"
+	},
+	{
+		"label": "Suporte::UnificaÃ§Ã£o de cliente",
+		"value": "categ_suporte_unificacao_de_cliente"
+	},
+	{
+		"label": "Suporte::Upgrade",
+		"value": "categ_suporte_upgrade"
+	},
+	{
+		"label": "Suporte::Incidente::ExclusÃ£o de contato",
+		"value": "categ_suporte__incidente__exclusÃ£o_de_contato"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Â´Disparo de RelatÃ³rio automÃ¡tico",
+		"value": "categ_suporte__requisiÃ§Ã£o___disparo_de_relatÃ³rio_automÃ¡tico"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::CriaÃ§Ã£o::Representante",
+		"value": "categ_suporte__requisiÃ§Ã£o__criaÃ§Ã£o__representante"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Entendimento de Processo::InformaÃ§Ã£o::Proposta",
+		"value": "categ_suporte_requisicao_entendimento_de_processo_informacao_proposta"
+	},
+	{
+		"label": "Suporte::RequisiÃ§Ã£o::Melhoria/Processo::Treinamento",
+		"value": "categ_suporte__requisiÃ§Ã£o__melhoria/processo__treinamento"
+	},
+	{
+		"label": "Suporte::Projetos::ValidaÃ§ao deTestes",
+		"value": "categ_suporte__projetos__validaÃ§ao_detestes"
+	},
+	{
+		"label": "RPA::Incidente Service Now",
+		"value": "categ_rpa_incidente_service_now"
+	}
+]
